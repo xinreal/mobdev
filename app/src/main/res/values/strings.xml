@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">mobdev</string>
+    <string name="app_name">Contacts</string>
+
+    <string name="permission_required_title">Доступ к контактам не предоставлен</string>
+    <string name="permission_required_message">Чтобы показать список контактов, приложению нужен доступ к контактам.</string>
+    <string name="grant_permission">Предоставить доступ</string>
+
+    <string name="no_contacts">Контакты не найдены</string>
+
+    <string name="phones_title">Телефоны</string>
+    <string name="emails_title">Email</string>
+    <string name="no_phones">Телефоны отсутствуют</string>
+    <string name="no_emails">Email отсутствует</string>
+
+    <string name="close">Закрыть</string>
 </resources>
